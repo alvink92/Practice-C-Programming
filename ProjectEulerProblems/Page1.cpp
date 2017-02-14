@@ -39,11 +39,7 @@ int main() // Test
 	//printf("4. Smallest multiple(up to 20): %d\n", SmallestMultiple(10));
 	//printf("5. Sum Squared Diff: %d\n", SumSquaredDifference(100));
 	//printf("9. Special Pythagorean triplet for 1000: %d\n", SpecialPythagoreanTriplet());
-	// Problems 10 
-	//  		|
-	//			|
-	//  		v
-	//  		46
+	// Problems 10 - 46 (Unimplemented)
 	//printf("47. Distinct Prime Factors: %d\n", DistinctPrimeFactors());
 	//printf("48. Self Powers(up to 1000): %d\n", SelfPowers(1000,10));
 	//49. Iterate 1k-10k, doing mod math to extract all digits and placing in list of special data structure. checking if digits match previous every iteration.
